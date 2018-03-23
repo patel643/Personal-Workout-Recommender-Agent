@@ -1,2 +1,2 @@
 # Personal-Workout-Recommender-Agent
-AI 2 final project
+Artificial Intelligence 2 final project

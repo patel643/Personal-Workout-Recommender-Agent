@@ -1,0 +1,38 @@
+13
+
+{1
+50 High Knees
+50 Jacks
+50 Skaters
+40 Squats
+40 Jump Squats
+40 Front Lunges
+40 Side Lunges
+40 Jump Lunges
+
+20 Prison Cell Pushups
+50 Dumbbell Head circles
+50 Dumbbell waist circles
+15-rep Wood Chopper Series
+
+25 Jump Burpees
+25 Mountain Climber Pushups
+35 Medicine Ball Slams
+
+50 Dumbbell Head circles
+50 Dumbbell waist circles
+15-rep Wood Chopper Series
+
+25 Jump Burpees
+25 Mogul Pushups
+35 Medicine Ball Slams
+
+15 Overhead Presses
+15 Bend forward rear delt flys
+15 Chest Press/Glute Bridges
+
+25 Jump Burpees
+25 Mogul/Mountain Climber Pushups
+35 Medicine Ball Slams
+
+}

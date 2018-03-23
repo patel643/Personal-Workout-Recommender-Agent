@@ -1,0 +1,35 @@
+4
+{1
+20 Prison Cell Pushups 
+
+
+1-minute Forearm Plank
+5 Jump Burpee Sprawls
+1-minute Right Side Plank
+10 BOSU sit down X Jumps
+1-minute Left Side Plank
+10 Jump burpee Sprawls
+1-minute Mountain Climber Pushups
+15 BOSU sit down X Jumps
+1-minute Plank Jacks
+15 Jump Burpee Sprawls
+1-minute Battle Rope Two arm slams
+20 BOSU sit down X Jumps
+1-minute Battle Rope Right Side Waves
+20 Jump Burpee Sprawls
+1-minute Battle Rope Left Side Waves
+25 BOSU sit down X Jumps
+1-minute Right Side Plank with hip dip and tuck under
+25 Jump Burpee Sprawls
+1-minute Left Side Plank with hip dip and tuck under
+30 BOSU sit down X Jumps
+1-minute Moguls
+
+
+30 Medicine Ball Throw
+30 Medicine Ball Slams
+
+30 Cable Anti-rotational
+
+30 Diagonal Cable Pull-downs
+}

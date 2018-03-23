@@ -1,0 +1,34 @@
+14
+
+{1
+50 Alternate stance pushups
+100 Jab Cross
+100 Upper Cuts
+100 Hooks
+100 Back Fist
+50 Alternate stance pushups
+
+
+30 Overhead Press
+30 Rear Delt Flys
+
+50 In and Out Jab Cross
+
+30 LawnMower Pulls
+30 Bicep Curl-Lunge/Bicep Pushup
+
+75 Six Punches
+
+30 TRX Triceps Extensions
+30 Back Fist Sprawl
+
+50 Elbows
+
+30 Single Arm Press
+30 Stick Ups
+
+}
+{5
+25-second Jab-Cross/Pushup
+}
+

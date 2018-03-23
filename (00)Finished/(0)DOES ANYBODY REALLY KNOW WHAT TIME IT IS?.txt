@@ -1,0 +1,26 @@
+0
+{1
+25 Arm Circles
+25 Pushups
+25 Mountain Climbers
+25 Side Bends
+
+1-10-Ladder JAB-CROSS/PUSHUPS 
+10-1-Ladder JAB-CROSS/PUSHUPS
+1-10-Ladder MEDICINE BALL SLAMS/SIT DOWN JUMP UP
+10-1-Ladder MEDICINE BALL SLAMS/SIT DOWN JUMP UP
+1-10-Ladder REAR DELT FLYS/JUMP BURPEES/PUSHUPS
+10-1-Ladder REAR DELT FLYS/JUMP BURPEES/PUSHUPS
+}
+{5
+10 Overhead Presses
+10 Medicine Ball Throws
+10 Medicine Ball Slams
+}
+
+{1
+30 Plate Flips in Hold squat
+}
+
+
+

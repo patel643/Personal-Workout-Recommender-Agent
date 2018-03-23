@@ -1,0 +1,54 @@
+3
+{1
+1 Thumbs Up/Down Series
+
+5 Pushups
+5 Jump Squats
+10 Pushups
+10 Jump Squats
+15 Pushups
+15 Jump Squats
+20 Pushups
+20 Jump Squats
+25 Pushups
+25 Jump Squats
+
+30 Jab Cross
+30 Pushups
+30 Jump Squats
+35 Jab Cross
+35 Pushups
+35 Jump Squats
+40 Jab Cross
+40 Pushups
+40 Jump Squats
+
+100 Back Fists with jumps
+
+15 Alt Single Arm Overhead Press 
+15 Lawn Mower Pull
+15 Side Plank Presses
+
+45 Back Fists with jumps
+45 Pushups
+45 Alt Overhead Press with High Knees
+
+15 Alt Single Arm Overhead Press
+15 Lawn Mower Pull
+15 Side Plank Presses 
+50 Back Fists with jumps
+50 Pushups
+50 Alt Overhead Press with High Knees
+
+15 Alt Single Arm Overhead Press 
+15 Lawn Mower Pull 
+15 Side Plank Presses
+
+50 Back Fists with jumps
+50 Pushups
+50 Alt Overhead Press with High Knees
+
+15 Alt Single Arm Overhead Press
+15 Lawn Mower Pull
+15 Side Plank Presses
+}

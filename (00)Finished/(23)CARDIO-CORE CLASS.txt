@@ -1,0 +1,41 @@
+23
+
+{1
+10 Plank Walk Forward Backward
+10 Plank Walk Side to Side
+
+25 Shotput press
+50 KB swings
+25 Rollback jump up
+25 Shotput press
+50 KB swings
+25 Rollback jump up
+
+15 v-sit rolls
+50 lemon squeezers 
+15 v-sit rolls
+50 lemon squeezers
+30 bow rock
+
+2-minutes burpees
+
+30 pushup hips back on heels
+50 kneeling wood choppers
+10 Dive bomb pushups
+25 seated boxer twist
+
+2-minutes jump burpees
+
+25 seated boxer twist
+25 suitcase crunch 
+
+2-minutes Burpee pushups
+
+1-minute spiderman plank
+
+}
+{2
+20 plank tucks
+20 forearm plank tucks
+}
+

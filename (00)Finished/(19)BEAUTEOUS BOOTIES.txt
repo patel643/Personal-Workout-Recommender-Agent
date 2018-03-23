@@ -1,0 +1,49 @@
+19
+
+{1
+
+20 Sumo Squats
+15-second Hold Low Sumo Squat
+15-seconds Pulse Low Sumo Squat
+}
+
+{2
+10 Butt Devils
+
+25 In and Outs
+25 low squat In and Outs
+25 In and Outs
+15 Single Leg Romanian Dead Lifts
+25 In and Outs
+15 Single Leg Squats
+15 Single Leg Hops
+}
+
+{2
+
+20 Weighted Calf Raises
+20 single leg jumps fwd and back
+20 single leg jumps side to side
+15 Weighted Calf Raises
+15 single leg jumps fwd and back
+15 single leg jumps side to side
+10 Weighted Calf Raises
+10 single leg jumps fwd and back
+10 single leg jumps side to side
+5 Weighted Calf Raises
+5 single leg jumps fwd and back
+5 single leg jumps side to side
+}
+
+{1
+
+50 Bag Kick over
+35 MB Glute Bridges
+25 Jump Squats
+35 One Leg MB Glute Bridges
+25 Jump Squats
+35 One Leg MB Glute Bridges
+25 Jump Squats
+35 MB Glute Bridges
+25 Jump Squats
+}

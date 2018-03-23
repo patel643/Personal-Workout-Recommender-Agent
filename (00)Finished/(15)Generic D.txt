@@ -1,0 +1,30 @@
+15
+{1
+25 Squats
+25 Jump Squats
+25 Squat touch floor
+25 Tuck Jumps
+
+25 Roll Back Jump Up
+20 Forward Duck Walk
+20 Backward Duck Walk
+20 Forward and Backward Frog leap
+
+25 Front Lunges
+25 Side Lunges
+50 Switch Lunge Jumps
+
+50 Hand Stands
+
+25 Frog leap pushup
+
+50 Lizard Crawl with Staggered Pushup
+
+
+30 Sit down Jump Squat
+
+30 pushup wall touch
+
+}
+
+

@@ -1,0 +1,58 @@
+1
+
+
+{1
+
+5 Upper Cuts
+5 Pushups 
+10 Upper Cuts
+10 Pushups 
+15 Upper Cuts
+15 Pushups 
+20 Upper Cuts
+20 Pushups 
+25 Upper Cuts
+25 Pushups 
+
+
+5 Back Fists
+5 Rolling Chest Press
+10 Back Fists
+10 Rolling Chest Press
+15 Back Fists
+15 Rolling Chest Press
+20 Back Fists
+20 Rolling Chest Press
+25 Back Fists
+25 Rolling Chest Press
+
+5 Pull-ups
+5 Inverted Rows
+5 Incline Flys
+5 Ball Slams
+5 Bulgarian Split Squats
+
+10 Pull-ups
+10 Inverted Rows
+10 Incline Flys
+10 Ball Slams
+10 Bulgarian Split Squats
+
+15 Pull-ups
+15 Inverted Rows
+15 Incline Flys
+15 Ball Slams
+15 Bulgarian Split Squats
+
+20 Pull-ups
+20 Inverted Rows
+20 Incline Flys
+20 Ball Slams
+20 Bulgarian Split Squats
+
+25 Pull-ups
+25 Inverted Rows
+25 Incline Flys
+25 Ball Slams
+25 Bulgarian Split Squats
+}

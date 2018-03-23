@@ -1,0 +1,91 @@
+16
+
+
+{5
+5 Pullups
+10 Pushups
+15 Squats
+}
+{5
+10 Inverted Rows 
+10 Dips
+10 Lunges
+}
+
+{1
+10 Single Leg Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Single Leg Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Dive Bomb Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Dive Bomb Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Alt Knee to Chest pushup
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Alt Knee to Chest pushup
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Plyometric Clapping Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Plyometric Clapping Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Spiderman Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+10 Spiderman Pushups
+10 Mountain Climbers
+10 Squat/Overhead Press
+10 Plank Jacks
+10 Burpees
+15-second Extended Plank
+1-Minute Battle Ropes
+}
+
+
+
+
+

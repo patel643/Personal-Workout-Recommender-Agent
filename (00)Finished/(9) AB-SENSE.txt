@@ -1,0 +1,43 @@
+9
+{2
+20 Plank Walk Forward/back 
+20 Plank Walk Side to Side
+20 Plank Walk Forward/back 
+20 Plank Walk Side to Side
+}	
+
+
+{3
+30-Seconds Bodyweight Speed Squats
+30-Seconds Burpees
+30-Seconds Mountain Climbers
+30-Seconds Jump Squats
+}
+
+
+{3
+15-Each-side Kneeling wood choppers
+30-Sec. Forearm Plank
+30-Sec. R. Side Plank
+30-Sec. Reverse Plank
+30-Sec. L Side Plank
+}
+
+{3
+10 DB Clean, Squat, Press
+10 Each Side Renegade Rows (Pushup Row)
+10 Jump Burpee Pushups
+15 Ball Throws; 15 Ball Slams
+}
+
+3{
+8 Forearm Plank Tucks 
+8 Straight Arm Plank Tucks (let low back sway then tuck)
+}
+{1
+25 Partner Medicine Ball Toss Middle
+25 Partner Medicine Ball Toss Right
+25 Partner Medicine Ball Toss Left
+25 Partner Medicine Ball Toss Middle
+}
+

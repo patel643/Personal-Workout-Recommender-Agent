@@ -1,0 +1,14 @@
+2
+{1
+5 Duck Walks
+5 Bunny Hops 
+5 Sneaking Ape
+5 Crab Walk
+5 Horse Walk
+5 Chameleon 
+5 Scorpion
+5 Scorpion Jumps
+5 Crouching tiger
+5 Bear Crab Roll 
+5 Monkey Roll
+}

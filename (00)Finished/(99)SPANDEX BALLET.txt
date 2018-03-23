@@ -1,0 +1,41 @@
+99
+{1
+100 High Knees
+100 Jumping Jacks
+25 Skaters
+1 Pilates 100
+}
+{2
+10 Slo-mo pushups
+1-Minute Forearm Plank
+}
+
+{1
+50 Rope Slams
+25 Medicine Ball Slams
+10 Jump Burpee Pushups
+10 Stairs
+}
+
+{3
+10 Slo-mo Tuck Under LEFT side planks 
+1 Minute RIGHT Side Plank
+}
+
+{1
+50 Rope Slams
+25 Medicine Ball Slams
+10 Jump Burpee Pushups 
+10 Stairs
+}
+
+{1
+10 Slo-mo Tuck Under RIGHT side planks 
+1 Minute LEFT Side Plank
+}
+{1
+50 Rope Slams
+25 Medicine Ball Slams
+10 Jump Burpee Pushups
+10 Stairs
+}

@@ -3,7 +3,7 @@ import os
 
 
 Exercises = {}
-path = "WorkoutsTXT/(00)finished"
+path = "(00)finished"
 for filename in os.listdir(path):
     
     file = path + "/" + filename #.replace(" ","\ ")

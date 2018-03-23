@@ -1,0 +1,27 @@
+108
+{5
+60-Seconds Bodyweight Squat Jump
+45-seconds High-Knee Skip: 45 seconds
+60-Seconds Pushup
+45-Seconds Seal Jacks
+8 20-Yard Sprint: Repeat 8 lengths
+}
+
+  
+{4
+30-Seconds Forward lunge 
+30-Seconds Spiderman pushup
+30-Seconds Plank walkup
+30-Seconds Rest
+}
+
+info:
+Seal Jacks: 45 seconds
+(Like a jumping jack, only clap your hands in front of your body.)
+
+
+
+
+
+
+

@@ -1,15 +1,19 @@
 74
 Lower/ Core
 
-Warm Up — 300 jump ropes
+Warm Up
+{
+1
+300 jump ropes
+}
 
-Do 2 to 5 rounds of this workout—depending on how much time you have.
-
+{
+2
 100 High Knee Sprints
 10 Box Jumps
 10 Jump Burpee Pushups
 20 Squats
-20 Lateral Lunges (each side)
+20 Lateral Lunges
 40 Forearm plank twists
 40 Mountain Climbers
 20 Plank Walkups
@@ -20,17 +24,18 @@ Do 2 to 5 rounds of this workout—depending on how much time you have.
 20 Pushups
 50 Toe Taps (sprint in place, tapping toes)
 20 Glute Bridges
-40 Wide knee Standing crunches -each side(touch elbow to knee)
+40 Wide knee Standing crunches
 20 Bear Crawls
 20 Bear Crawl Position pushups
 20 Double Leg Raises
 30 seconds V-sit
+}
 
 
-Finisher:
-Do this group twice:
+{
+2
 150 Sprints
-50 each side Knee Raises
-20 Super Man (lay on stomach, lift torso and legs off ground, arms straight above head)
-
+50 Knee Raises
+20 Super Man
+}
 

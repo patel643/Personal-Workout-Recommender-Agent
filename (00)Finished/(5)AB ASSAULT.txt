@@ -1,0 +1,54 @@
+﻿5
+AB ASSAULT
+
+
+{
+1
+30-seconds V-sit or L-sit 
+30-seconds Iron Butterfly 
+30-seconds Dying roach 
+30-seconds Dying roach — other direction
+30-seconds Hip Raises
+30-seconds Side Plank Twist
+30-seconds Seated Boxer Twist
+30-seconds Bicycle Crunches
+}
+
+{
+2
+30-seconds V-sit or L-sit 
+30-seconds plank
+30-seconds Iron Butterfly 
+30-seconds plank
+30-seconds Dying roach 
+30-second plank
+30-seconds Dying roach — other direction
+30-second plank
+30-seconds Hip Raises  
+30-second plank
+30-seconds Side Plank Twist 
+30-second plank
+30-seconds Seated Boxer Twist
+30-second plank
+30-seconds Bicycle Crunches
+}
+
+{
+3
+30-seconds V-sit or L-sit 
+30-second mountain climbers
+30-seconds Iron Butterfly 
+30-second mountain climbers
+30-seconds Dying roach 
+30-second mountain climbers
+30-seconds Dying roach — other direction
+30-second mountain climbers
+30-seconds Hip Raises  
+30-second mountain climbers
+30-seconds Side Plank Twist
+30-second mountain climbers
+30-seconds Seated Boxer Twist 
+30-second mountain climbers
+30-seconds Bicycle Crunches
+}
+

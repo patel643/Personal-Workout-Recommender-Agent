@@ -1,0 +1,33 @@
+109
+BELLY FAT BLAST
+
+{
+2
+20-seconds Bear Crawl
+10-reps Split Squat (left leg forward)
+20-seconds Bear Crawl
+10-reps Split Squat (right leg forward)
+20-seconds Sideways Bear Crawl (crawl toward the left)
+10-reps Reverse Lunge (left leg forward)
+20-seconds Sideways Bear Crawl (crawl toward the right)
+10-reps Reverse Lunge (right leg forward)
+20-seconds Backwards Bear Crawl
+10-reps Lateral lunge (alternate legs every rep)
+}
+
+{
+2
+10-seconds Bear Crawl Hold
+10-seconds Squat Hold
+20-seconds Bear Crawl Hold
+20-seconds Squat Hold
+30-seconds Bear Crawl Hold
+30-seconds Squat Hold
+30-seconds Bear Crawl Hold
+30-seconds Squat Hold
+20-seconds Bear Crawl Hold
+20-seconds Squat Hold
+10-seconds Bear Crawl Hold
+10-seconds Squat Hold
+}
+

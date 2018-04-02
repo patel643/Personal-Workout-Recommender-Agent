@@ -1,50 +1,68 @@
-27
+﻿27
 Generic E
 
 
 Warm Up
-
+{
 50 High Knees
 50 Jumping Jacks
 50 Skaters
 50 Jump Squats
+}
 
-THREE ROUNDS:
+{
+3
 10 Medicine Ball Throws
 10 Medicine Ball Slams
 10 Jump Burpee Pushups
+}
 
-FIVE ROUNDS:
+{
+5
 12 Side Plank Walk to the right
 12 Side Plank Walk to the left
-10 Goblet Squats (squat low to the floor while pushing weight away from chest, pull weight into chest as you stand up)
+10 Goblet Squats 
+}
 
-FOUR ROUNDS:
+{
+4
 10 Medicine Ball Throws
 10 Medicine Ball Slams
 10 Jump Burpee Pushups
+}
 
-FIVE ROUNDS:
+{
+5
 12 Side Plank Walk to the right
 12 Side Plank Walk to the left
 10 Goblet Squats
+}
 
-THREE ROUNDS:
+{
+3
 10 Medicine Ball Throws
 10 Medicine Ball Slams
 10 Jump Burpee Pushups
+}
 
-FIVE ROUNDS:
+{
+5
 10 Right side kneeling wood choppers
 10 Left side kneeling wood choppers
 5 Right side ball slams
 5 Left side ball slams
+}
 
-FIVE ROUNDS:
-10 Left side Plank Walk Up (plank position — up, up, down, down forearms to hands)
+{
+5
+10 Left side Plank Walk Up 
 10 Right side Plank Walk Up
 10 Pushups
-_____________________
-FINISH WITH:  50 Medicine Ball Slams
+}
+
+{
+1
+50 Medicine Ball Slams
+}
 
 

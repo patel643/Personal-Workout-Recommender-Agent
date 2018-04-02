@@ -1,0 +1,73 @@
+90
+Posterior Perfection
+
+{
+1
+25 Bodyweight Squats
+25 Jump Squats
+25 Right Leg Lunge
+25 Left Leg Lunge
+25 Jump Lunges
+25 Right Leg Split Squat (back knee to floor) 
+25 Left Leg Split Squat (back knee to floor)
+}
+
+{
+1
+20 Bodyweight Squats
+20 Jump Squats
+20 Right Leg Lunge
+20 Left Leg Lunge
+20 Jump Lunges
+20 Right Leg Split Squat (back knee to floor) 
+20 Left Leg Split Squat (back knee to floor)
+}
+
+{
+1
+15 Bodyweight Squats
+15 Jump Squats
+15 Right Leg Lunge
+15 Left Leg Lunge
+15 Jump Lunges
+15 Right Leg Split Squat (back knee to floor) 
+15 Left Leg Split Squat (back knee to floor)
+}
+
+{
+1
+25 Right Leg First Step Ups
+25 Sumo Squats 
+25 Jump Burpee Pushups
+25 Left Leg First Step Ups 
+25 Right Leg elevated behind - Bulgarian Split Squats
+25 Left Leg elevated behind - Bulgarian Split Squats
+}
+
+{
+1
+20 Right Leg First Step Downs
+20 Sumo Squats 
+20 Jump Burpee Pushups
+20 Left Leg First Step Downs
+20 Right Leg elevated behind - Bulgarian Split Squats
+20 Left Leg elevated behind - Bulgarian Split Squats
+}
+
+{
+1
+15 Right Leg First Step Ups
+15 Sumo Squats 
+15 Jump Burpee Pushups
+15 Left Leg First Step Ups 
+15 Right Leg elevated behind - Bulgarian Split Squats
+15 Left Leg elevated behind - Bulgarian Split Squats
+}
+
+{
+1 
+1/2-min front plank
+1-minute each side plank
+1-minute forearm plank
+}
+

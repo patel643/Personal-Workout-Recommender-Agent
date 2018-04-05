@@ -1,0 +1,27 @@
+﻿36
+DARKLED DARLING DANCERS
+
+{
+3
+60-seconds Goblet Squat 
+60-seconds Cross Body Mountain Climber 
+60-seconds Alternating Single Arm DB or KB swings
+60-seconds T-up Pushups with weights
+60-seconds TRX Tricep Extensions
+60-seconds Bentover Dumbbell Rows
+60-seconds DB Side lunge and touch -  stand up to Bicep Curls 
+60-seconds Two Dumbbell Wood choppers 
+60-seconds DB Lunge and Rotation 
+60-seconds DB Overhead Squat Press with Sprawl
+60-seconds Hindu Pushups
+60-seconds Sit down on floor and stand up (holding weight at chest)
+20 Pushups 
+}
+
+FINISHER:
+{
+4 
+5 DB CLEAN, FRONT SQUAT, MILITARY PRESS
+5 EACH SIDE RENEGADE ROWS
+5 BURPEES
+}

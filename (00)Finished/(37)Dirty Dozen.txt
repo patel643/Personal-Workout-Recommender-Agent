@@ -1,0 +1,28 @@
+﻿37
+Dirty Dozen
+
+{
+1
+20 Plyometric Pushups
+50 High-Knees Sprint
+50 Speed Skater Lunges
+20 Weighted Step Ups
+50 Jump-Switch Lunges 
+50 Pilates Teaser 
+50 Squat Jack 
+2-Minute Weighted Wall Sit
+30 Jump Burpee Pushups 
+20 Box Jumps
+20 Bulgarian Split Squat
+20 Single Leg Romanian Dead Lift
+}
+
+{
+1
+50 Bicycle Crunches
+40 Double Leg Straight Lifts
+40 Double Leg Right angle lifts
+40 Double Leg Left angle lifts
+40 Double Leg Straight Hip Lifts
+}
+

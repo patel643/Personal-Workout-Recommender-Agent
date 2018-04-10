@@ -1,0 +1,40 @@
+﻿61
+Le Corps En Haut
+
+
+{
+1
+50 Pushups 
+50 Weighted Jacks 
+40 Spiderman Pushups 
+40 High Knees with Alternating overhead presses 
+30 Tricep Pushups 
+30 TRX Tricep extensions
+30 Side Tri-Rises
+20 Plyometric Pushups
+20 Jump Burpees 
+10 KB Snatches 
+10 Jumping Jack Pushups
+50 Dumbbell Chest Presses 
+50 Goblet Squats
+40 Dumbbell Chest Flys 
+40 Rear Delt Flys 
+30 Standing chest flys 
+30 Medicine Ball Slams
+20 Alternating single arm squat to overhead press
+20 Jump Burpees 
+10 KB Snatches 
+10 Each side T-up Pushups
+50 Inverted Rows
+50 Weighted Jacks
+40 Alt Knee Overhead Press
+40 Decline Pushups
+30 X Jumps
+30 Plank Position Rows (each arm)
+20 Jump Burpees (No Pushups)
+20 Bicep Curls
+10 KB Snatches
+10 Hindu Pushups
+}
+
+

@@ -1,0 +1,66 @@
+﻿84
+NEO CORTEX
+
+{
+1
+30-Second Jog
+30-Second Jacks
+30-Second High Knees
+30-Second Skater Hops
+10 Fast Feet (a few seconds) Hop sideways 
+10 Fast Feet, Sprawl, Jump up 
+10 Fast Feet, Roll back, X Jump 
+50 Lemon Squeezers 
+}
+
+{
+3
+30-Second Front Plank
+15 “Sphinx Pushups”
+20 Each Side V Up Crunches 
+}
+
+{
+1
+30-seconds STAIR SPRINTS 
+}
+
+{
+1
+5 Stair Sprints
+30-Second Forearm Plank
+5 Stair Sprints
+30-Second Right Side Plank
+5 Stair Sprints
+30-Second Left Side Plank
+5 Stair Sprints
+30-Second Reverse Plank
+1 Stair Sprint
+}
+
+{
+3
+10 Pullups   
+10 Mountain Climber Pushups
+}
+
+BATTLE ROPES
+{
+1
+1-Minute Battle Rope Jumping Jacks 
+25 KB two arm swings 
+1-Minute Battle Rope Knees to Standing 
+25 KB two arm swings 
+1-Minute Battle Rope Jump Slams 
+25 KB two arm swings
+}
+
+{
+1
+20 Medicine Ball Crunch Throw/Catches
+20 Seated Boxer Twist 
+20 Russian Twist 
+20 Threaded Lunge 
+20 Big Figure 8s with weight 
+}
+

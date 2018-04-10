@@ -1,0 +1,19 @@
+﻿78
+THE METACONDA
+
+{
+8
+30-seconds Dumbbell swing
+30-seconds Blast-off Pushup
+30-seconds Bodyweight squat
+30-seconds Dumbbell piston push-pull
+30-seconds Mountain climber
+30-seconds Hollow-body hold
+}
+
+{
+4
+40-second Skater Hops
+40-second Walkup/Pushups
+}
+

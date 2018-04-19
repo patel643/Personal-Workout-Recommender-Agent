@@ -34,10 +34,14 @@ ExerciseSet = sorted(list(Exercises.keys()))
 
 UniDist = np.full(len(ExerciseSet),1/(len(ExerciseSet)))
 
+TargetAreas = ['Legs', 'Arms', 'Chest', 'Abs', 'Back']
+InitialDist = np.full(len(TargetAreas), 1/(len(TargetAreas)))
+
 #UniDist = normalize(UniDist)
 #choice = np.random.choice(len(UniDist),1, p = UniDist)[0]
+
 for i in range(10):
     ckt = Generate_Circuit(100,ExerciseSet,UniDist, i)
-    print(len(set(ckt))/len(ckt))
-    print(len(set(ckt))/len(ckt))
+##    print(len(set(ckt))/len(ckt))
+##    print(len(set(ckt))/len(ckt))
 

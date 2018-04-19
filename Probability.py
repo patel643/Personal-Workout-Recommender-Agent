@@ -37,6 +37,14 @@ UniDist = np.full(len(ExerciseSet),1/(len(ExerciseSet)))
 TargetAreas = ['Legs', 'Arms', 'Chest', 'Abs', 'Back']
 InitialDist = np.full(len(TargetAreas), 1/(len(TargetAreas)))
 
+ExerciseArr = {'Legs': [], 'Arms':[]}
+
+##Key = distribution from (targetAReas)
+##
+##exercise = random from ExerciseArr[Key] 
+
+
+
 #UniDist = normalize(UniDist)
 #choice = np.random.choice(len(UniDist),1, p = UniDist)[0]
 

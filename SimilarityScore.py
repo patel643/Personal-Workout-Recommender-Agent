@@ -33,7 +33,7 @@ MuscleGroups = [
 'Seratus Anterior',
 'Cardio']
 
-df = pd.read_excel('ExLabels.xlsx', sheetname='Sheet1')
+df = pd.read_excel('ExLabelsTest.xlsx', sheetname='Sheet1')
 X = df.as_matrix()
 row1 = df.iloc[1:2,:]
 Exercises = list(df['Exercise'])
@@ -99,10 +99,6 @@ def Circuit_Vector(ckt):
         vec = vec + ExDict[Ex1]
     return vec
     
-
-
-
-
 def cos_vec_sim(vec1,vec2):
     return np.dot(vec1,vec2)/(np.linalg.norm(vec1)*np.linalg.norm(vec2))
 

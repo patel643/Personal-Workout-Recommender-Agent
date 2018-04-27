@@ -33,7 +33,8 @@ MuscleGroups = [
 'Seratus Anterior',
 'Cardio']
 
-df = pd.read_excel('ExLabelsTest.xlsx', sheetname='Sheet1')
+df = pd.read_excel('Exercises.xlsx', sheetname='Sheet1')
+df = df.fillna(0)
 X = df.as_matrix()
 row1 = df.iloc[1:2,:]
 Exercises = list(df['Exercise'])
@@ -88,7 +89,7 @@ def Generate_Random_Workouts(ExList, num_ckts, emphasis):
     Circuits = []
 
     for i in range(num_ckts):
-        num_exercises = np.random.randint(1,10)
+        num_exercises = np.random.randint(5,10)
         Circuits.append(Generate_Circuit(num_exercises, ExList, dist))
 
     return Circuits
@@ -135,8 +136,8 @@ class Mover(object):
     
 emphasis = [(0,1.5), (1,1.2)]
 arm_emphasis = [(18,1.5), (19,1.2)]
-LegCircuits = Generate_Random_Workouts(Exercises, 5, emphasis)
-ArmCircuits = Generate_Random_Workouts(Exercises, 5, arm_emphasis)
+LegCircuits = Generate_Random_Workouts(Exercises, 20, emphasis)
+ArmCircuits = Generate_Random_Workouts(Exercises, 20, arm_emphasis)
 
 Circuits = LegCircuits+ArmCircuits
 

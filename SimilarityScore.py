@@ -5,7 +5,9 @@ from ExtractExercises import *
 import pandas as pd
 from pandas import ExcelWriter
 from pandas import ExcelFile
+import random
 
+MG = [[0,1,2],[3,4],[5,6,7,8],[9,10,11,12,13,14],[15,16,17],[18,19,20],[21,22,23],[24]]
 MuscleGroups = [
 'Hip Adductors',
 'Hip Flexors',
@@ -82,7 +84,7 @@ def Generate_Random_Workouts(ExList, num_ckts, emphasis):
 
     for emph in emphasis:
         for i,ex in enumerate(ExList):
-            if ExDict[ex][emph[0]] > 0:
+            if ExDict[ex][emph[0]] > 0.5:
                 dist[i] *= emph[1]
                 
     dist = normalize(dist)
@@ -101,6 +103,7 @@ def Circuit_Vector(ckt):
     return vec
     
 def cos_vec_sim(vec1,vec2):
+    
     return np.dot(vec1,vec2)/(np.linalg.norm(vec1)*np.linalg.norm(vec2))
 
 def cos_ckt_sim(ckt1, ckt2):
@@ -110,10 +113,11 @@ def cos_ckt_sim(ckt1, ckt2):
     
 
 class Mover(object):
-    def __init__(self, name, Circuits):
+    def __init__(self, name='Client', Circuits = [[]], fitness_goal = np.full((len(ExDict[Ex])), 1)):
         self.name = name
-        self.Body_Vec = np.zeros(len(ExDict[Ex]))
+        self.Body_Vec = np.full((len(ExDict[Ex])), 1)
         self.Circuits = Circuits
+        self.fitness_goal = fitness_goal
 
     def Perform_Ckt(self, ckt):
         self.Body_Vec = self.Body_Vec + Circuit_Vector(ckt)
@@ -128,6 +132,17 @@ class Mover(object):
             Similarities[i] = cos_vec_sim(Circuit_Vector(ckt), self.Body_Vec)
             
         return self.Circuits[np.argmin(Similarities)]
+
+    def Recommend_Fitness_Goal_Ckt(self):
+        
+        Similarities = np.zeros(len(self.Circuits)) 
+        for i,ckt in enumerate(self.Circuits):
+            vec1 = np.add(Circuit_Vector(ckt), self.Body_Vec) 
+            Similarities[i] = cos_vec_sim(vec1, self.fitness_goal)
+            
+        return self.Circuits[np.argmax(Similarities)]
+            
+            
         
         
          
@@ -136,42 +151,38 @@ class Mover(object):
     
 emphasis = [(0,1.5), (1,1.2)]
 arm_emphasis = [(18,1.5), (19,1.2)]
-LegCircuits = Generate_Random_Workouts(Exercises, 20, emphasis)
-ArmCircuits = Generate_Random_Workouts(Exercises, 20, arm_emphasis)
+emphaCKT = []
+Circuits = []
+for i in range(len(ExDict[Ex])):
+    emphaCKT.append(Generate_Random_Workouts(Exercises, 20, [(i,2)]))
 
-Circuits = LegCircuits+ArmCircuits
+for emph in emphaCKT:
+    Circuits = Circuits + emph
+    
+goal = np.full((len(ExDict[Ex])), 1)
 
-Cade = Mover('Cade',LegCircuits+ArmCircuits)
+for i in MG[random.randint(0,len(MG)-1)]:
+    print(MuscleGroups[i])
+    goal[i] *= random.randint(100,2000)/100
+    
+Cade = Mover(name = 'Cade',Circuits = Circuits,fitness_goal = goal)
+John = Mover(name = 'Cade',Circuits = Circuits,fitness_goal = goal)
 
-Cade.Perform_Ckt(ArmCircuits[0])
+print('Cade: ',cos_vec_sim(Cade.Body_Vec, Cade.fitness_goal))
+print('John: ',cos_vec_sim(John.Body_Vec, John.fitness_goal))
 
-for ckt in Circuits:
-    print(cos_vec_sim(Circuit_Vector(ckt),Cade.Body_Vec))
 
 print("################\n")
-rec = Cade.Recommend_Diverse_Ckt()
-Cade.Perform_Ckt(rec)
+
+for i in range(20):
+    print(Cade.Recommend_Fitness_Goal_Ckt())
+    Cade.Perform_Ckt(Cade.Recommend_Fitness_Goal_Ckt())
+
+    
+print('Cade: ',cos_vec_sim(Cade.Body_Vec, Cade.fitness_goal))
 
 
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
-Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
 
-for ckt in Circuits:
-    print(cos_vec_sim(Circuit_Vector(ckt),Cade.Body_Vec))
-
-
-print(Cade.Body_Vec)
 
 
 

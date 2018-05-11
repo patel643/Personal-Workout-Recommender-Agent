@@ -6,6 +6,7 @@ import pandas as pd
 from pandas import ExcelWriter
 from pandas import ExcelFile
 import random
+import matplotlib.pyplot as plt
 
 MG = [[0,1,2],[3,4],[5,6,7,8],[9,10,11,12,13,14],[15,16,17],[18,19,20],[21,22,23],[24]]
 MuscleGroups = [
@@ -91,7 +92,7 @@ def Generate_Random_Workouts(ExList, num_ckts, emphasis):
     Circuits = []
 
     for i in range(num_ckts):
-        num_exercises = np.random.randint(5,10)
+        num_exercises = np.random.randint(5,15)
         Circuits.append(Generate_Circuit(num_exercises, ExList, dist))
 
     return Circuits
@@ -154,16 +155,16 @@ arm_emphasis = [(18,1.5), (19,1.2)]
 emphaCKT = []
 Circuits = []
 for i in range(len(ExDict[Ex])):
-    emphaCKT.append(Generate_Random_Workouts(Exercises, 20, [(i,2)]))
+    emphaCKT.append(Generate_Random_Workouts(Exercises, 20, [(i,5)]))
 
 for emph in emphaCKT:
     Circuits = Circuits + emph
     
 goal = np.full((len(ExDict[Ex])), 1)
 
-for i in MG[random.randint(0,len(MG)-1)]:
-    print(MuscleGroups[i])
-    goal[i] *= random.randint(100,2000)/100
+##for i in MG[random.randint(0,len(MG)-1)]:
+##    print(MuscleGroups[i])
+##    goal[i] *= random.randint(100,2000)/100
     
 Cade = Mover(name = 'Cade',Circuits = Circuits,fitness_goal = goal)
 John = Mover(name = 'Cade',Circuits = Circuits,fitness_goal = goal)
@@ -173,11 +174,21 @@ print('John: ',cos_vec_sim(John.Body_Vec, John.fitness_goal))
 
 
 print("################\n")
+x = np.arange(10)
+y = np.zeros(10)
+for i in x:
+    y[i] = cos_vec_sim(Cade.Body_Vec, Cade.fitness_goal)
+    Cade.Perform_Ckt(Cade.Recommend_Diverse_Ckt())
+    
+    
 
-for i in range(20):
-    print(Cade.Recommend_Fitness_Goal_Ckt())
-    Cade.Perform_Ckt(Cade.Recommend_Fitness_Goal_Ckt())
+colors = (0,0,0)
 
+plt.scatter(x, y, c=colors, alpha=0.5)
+plt.xlabel('Iteration')
+plt.ylabel('Cosine Similarity')
+plt.show()
+fig = plt.gcf()
     
 print('Cade: ',cos_vec_sim(Cade.Body_Vec, Cade.fitness_goal))
 
